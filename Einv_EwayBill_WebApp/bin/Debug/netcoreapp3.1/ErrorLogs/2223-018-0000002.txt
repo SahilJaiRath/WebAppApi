@@ -1,0 +1,12 @@
+Error Date :07-04-22 15:59
+Exception :{"success":false,"message":"4013 : The distance between the pincodes given is too high or low., 4014 : Invalid Vehicle Number"}
+Error Date :07-04-22 16:00
+Exception :{"success":false,"message":"4005 : Eway Bill details are not found"}
+Error Date :07-04-22 16:08
+Exception :{"success":false,"message":"4013 : The distance between the pincodes given is too high or low., 4014 : Invalid Vehicle Number"}
+Error Date :07-04-22 16:08
+Exception :{"success":false,"message":"4005 : Eway Bill details are not found"}
+Error Date :07-04-22 16:41
+Exception :{"success":false,"message":"4013 : The distance between the pincodes given is too high or low., 4014 : Invalid Vehicle Number"}
+Error Date :07-04-22 16:41
+Exception :{"success":false,"message":"4005 : Eway Bill details are not found"}

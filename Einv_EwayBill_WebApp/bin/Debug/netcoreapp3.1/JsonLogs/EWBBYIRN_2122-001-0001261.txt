@@ -1,0 +1,4 @@
+Error Date :25-03-22 18:19
+Exception :{"Irn":"e3b38d6925503571e09f3f480b5d094e99c09a37a796010ac5b74865319078b4","Distance":405,"TransMode":"1","TransId":null,"TransName":null,"TransDocDt":null,"TransDocNo":null,"VehNo":"UK08CB0164","VehType":"R","ExpShipDtls":null,"DispDtls":null}
+Error Date :25-03-22 18:21
+Exception :{"Irn":"e3b38d6925503571e09f3f480b5d094e99c09a37a796010ac5b74865319078b4","Distance":405,"TransMode":"1","TransId":null,"TransName":null,"TransDocDt":null,"TransDocNo":null,"VehNo":"UK08CB0164","VehType":"R","ExpShipDtls":null,"DispDtls":null}

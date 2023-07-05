@@ -1,0 +1,2 @@
+Error Date :5/19/2021 6:41:47 PM
+Exception :{"Irn":"91c16e932a1b1b46bc99e49d81a6e967e3d9be4a086a6e75d8b29a1c7c6c6be0","Distance":900,"TransMode":"1","TransId":"05AAFCP1505P1ZD","TransName":null,"TransDocDt":null,"TransDocNo":null,"VehNo":"UK08CB0258","VehType":"R","ExpShipDtls":{"Addr1":" POST BOX NO. 19883, SWATANTRA MARG SWOYAMBHU, CHAKRAPATH   ","Addr2":null,"Loc":"KATHMANDU","Pin":44600,"Stcd":"KH"},"DispDtls":null}

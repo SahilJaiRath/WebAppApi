@@ -1,0 +1,2 @@
+Error Date :19-06-2023 17:45:32
+Exception :{"success":false,"message":"Invalid Approximate Distance, Invalid Approximate Distance, Could not generate eway bill, pls contact helpdesk"}

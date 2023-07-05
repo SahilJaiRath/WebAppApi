@@ -1,0 +1,2 @@
+Error Date :4/2/2021 3:18:15 PM
+Exception :{"success":false,"message":"Invalid document type for the given supply type, Vehicle number is required"}

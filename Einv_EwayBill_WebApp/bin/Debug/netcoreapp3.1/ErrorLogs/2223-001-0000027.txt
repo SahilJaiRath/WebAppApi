@@ -1,0 +1,2 @@
+Error Date :13-06-2022 12:38:47
+Exception :{"success":false,"message":"3039 : Pincode -249404 of Seller does not belong to his/her State - 2"}

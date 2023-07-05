@@ -1,0 +1,13 @@
+Error Date :5/19/2021 6:43:03 PM
+Exception :{"success":false,"message":"5002 : The field Pin Code must be between 100000 and 999999., 5002 : The field State must match the regular expression '^([0-9]{1,2})$'."}
+Error Date :5/19/2021 6:43:43 PM
+Exception :{"success":false,"message":"4005 : Eway Bill details are not found"}
+Error Date :5/19/2021 6:44:08 PM
+Exception :Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-00933: SQL command not properly ended
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteNonQuery(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, OracleException& exceptionForArrayBindDML, OracleConnection connection, OracleLogicalTransaction& oracleLogicalTransaction, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteNonQuery()
+   at Einv_EwayBill_WebApp.Models.DataLayer.ExecuteNonQuery(OracleConnection connection, CommandType commandType, String commandText, OracleParameter[] commandParameters) in D:\Office_NewProject\Einv_EwayBill_WebApp\Models\DataLayer.cs:line 311
+   at Einv_EwayBill_WebApp.Models.DataLayer.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText, OracleParameter[] commandParameters) in D:\Office_NewProject\Einv_EwayBill_WebApp\Models\DataLayer.cs:line 208
+   at Einv_EwayBill_WebApp.Models.DataLayer.ExecuteNonQuery(String connectionString, CommandType commandType, String commandText) in D:\Office_NewProject\Einv_EwayBill_WebApp\Models\DataLayer.cs:line 184
+   at Einv_EwayBill_WebApp.Models.Taxilla_EinvoiceAPI.Generate_EwaybillIrn(DataTable dt, String jsonfile, String RequestId, String sessionId, String auth) in D:\Office_NewProject\Einv_EwayBill_WebApp\Models\Taxilla_EinvoiceAPI.cs:line 377

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>7cc72fcb-263b-4f6c-a15c-58b85a70ee65</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ExcelDataReader" Version="3.6.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.8" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.19.90" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ErrorLogs\" />
+    <Folder Include="JsonLogs\" />
+  </ItemGroup>
+
+</Project>

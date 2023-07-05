@@ -1,0 +1,8 @@
+Error Date :25-03-22 18:19
+Exception :{"success":false,"message":"4013 : The distance between the pincodes given is too high or low."}
+Error Date :25-03-22 18:19
+Exception :{"success":false,"message":"4005 : Eway Bill details are not found"}
+Error Date :25-03-22 18:21
+Exception :{"success":false,"message":"4013 : The distance between the pincodes given is too high or low."}
+Error Date :25-03-22 18:21
+Exception :{"success":false,"message":"4005 : Eway Bill details are not found"}

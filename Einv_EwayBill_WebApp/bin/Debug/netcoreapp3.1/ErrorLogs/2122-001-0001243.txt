@@ -1,0 +1,2 @@
+Error Date :21-03-22 12:56:20 PM
+Exception :{"success":false,"message":"2150 : Duplicate IRN","result":[{"InfCd":"DUPIRN","Desc":{"AckNo":132210034201096,"AckDt":"2022-03-21 12:51:00","Irn":"20e3abc04a7174bab25df699a1671a43166d320d14f269a52ad6612f56383c4f"}}]}

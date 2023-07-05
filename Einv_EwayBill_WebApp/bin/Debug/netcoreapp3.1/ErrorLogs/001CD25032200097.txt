@@ -1,0 +1,12 @@
+Error Date :25-03-22 17:43
+Exception :{"success":false,"message":"5002 : The field Document Number must match the regular expression '^([a-zA-Z1-9]{1}[a-zA-Z0-9/-]{0,15})$'."}
+Error Date :25-03-22 17:48
+Exception :{"success":false,"message":"5002 : The field Document Number must match the regular expression '^([a-zA-Z1-9]{1}[a-zA-Z0-9/-]{0,15})$'."}
+Error Date :25-03-22 18:14
+Exception :{"success":false,"message":"5002 : The field Document Number must match the regular expression '^([a-zA-Z1-9]{1}[a-zA-Z0-9/-]{0,15})$'."}
+Error Date :25-03-22 18:17
+Exception :{"success":false,"message":"5002 : The field Document Number must match the regular expression '^([a-zA-Z1-9]{1}[a-zA-Z0-9/-]{0,15})$'."}
+Error Date :25-03-22 18:27
+Exception :{"success":false,"message":"5002 : The field Document Number must match the regular expression '^([a-zA-Z1-9]{1}[a-zA-Z0-9/-]{0,15})$'."}
+Error Date :25-03-22 18:34
+Exception :{"success":false,"message":"5002 : The field Document Number must match the regular expression '^([a-zA-Z1-9]{1}[a-zA-Z0-9/-]{0,15})$'."}

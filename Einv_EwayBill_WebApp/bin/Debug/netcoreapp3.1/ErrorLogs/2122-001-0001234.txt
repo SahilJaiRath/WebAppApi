@@ -1,0 +1,2 @@
+Error Date :16-03-22 03:43:39 PM
+Exception :{"success":false,"message":"2172 : For Intra-state transaction, IGST amount is not applicable; only CGST and SGST amounts are applicable"}
